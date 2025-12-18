@@ -4,9 +4,7 @@ Aimmy but with Arduino and ViGEmBus support!
 
 ## Table of Contents
 - [Features and Advantages](#features-and-advantages)
-- [Limitations](#limitations)
 - [Setup Tutorial](#setup-tutorial)
-- [Troubleshooting](#troubleshooting)
 - [Credits](#credits)
 
 ## Features
