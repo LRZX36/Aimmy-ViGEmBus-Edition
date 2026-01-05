@@ -15,6 +15,7 @@ Aimmy but with Arduino and ViGEmBus support!
 0. Download ViGEmBus Driver on Github.
 1. Install it.
 2. Change "Mouse Movement Method" to "ViGEmBus"
+
    <img width="452" height="300" alt="image" src="https://github.com/user-attachments/assets/e5333531-e42a-4232-8924-847060eb9dbf" />
 4. Use like normal Aimmy.
 
