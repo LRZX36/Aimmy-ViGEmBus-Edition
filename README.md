@@ -8,12 +8,15 @@ Aimmy but with Arduino and ViGEmBus support!
 - [Credits](#credits)
 
 ## Features
-- Auto-aiming can be achieved in Apex Legends without hardware
+- Auto-aiming in Apex Legends without hardware
+- I don't know which other games it worked on besides Apex Legends.Test yourself.
 
 ## Setup Tutorial
-0. Download ViGEmBus Driver on Github
-1. Install it
-2. Use like normal Aimmy.
+0. Download ViGEmBus Driver on Github.
+1. Install it.
+2. Change "Mouse Movement Method" to "ViGEmBus"
+   <img width="1004" height="666" alt="image" src="https://github.com/user-attachments/assets/e5333531-e42a-4232-8924-847060eb9dbf" />
+4. Use like normal Aimmy.
 
 **WARNING: THIS CHEAT IS DETECTED ON FORTNITE AND YOU WILL GET DELAY BANNED!!**
 
